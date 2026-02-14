@@ -3,7 +3,6 @@
 }
 body {
   margin: 0;
-  background-color: pink;
 }
 .container {
   width: 1440px;
@@ -19,6 +18,7 @@ body {
   justify-content: space-around;
 }
 .box {
+  margin-top: 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
